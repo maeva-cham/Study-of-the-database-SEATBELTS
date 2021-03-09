@@ -29,4 +29,24 @@ We have a graph representing the evolution of the number of drivers killed from 
 #### Graph: distribution of the petrol price in 1969 to 1979
 This graph represents the evolution of the price of oil from 1969 to 1979. The area of each rectangle is proportional to an associated frequency. We notice that the price of oil varied a lot in those years. The curve in blue represents a kernel density estimator. It allows to follow the extent of the data. The blue curve follows the progression of the data well, so the estimate is viable. The green curve represents the standard deviation. It allows to see the deviation of the data. The curve in gray allows to see the distribution of the data.
 
-#### Graph
+#### Graph: The number of kms travelled by drivers in 1969 to 1979
+His histogram shows us the distribution of the number of kms a driver could achieve at that time. the green curve shows us that the most by data are located around 15 000 kms. 15,000 kms is a short commute and could be a commute from home to work.
+
+## - Where do the people most affected by an accident stand?
+
+#### Graph:The number of fronts killed in 1969 to 1979
+#### Graph:The number of drivers killed in 1969 to 1979
+#### Graph:The number of rears killed in 1969 to 1979
+These histograms represent the continuous distribution of the variables. By looking at these three graphs, we can see which site has the highest mortality rate. In these three documents we have four different information: the blue kernel density estimator curve, the green curve the standard deviation, the grey curve the data distribution and the red histogram. According to these three documents, the frequency of the number of people killed is not the same according to the place occupied in the car. The most frequent value is 800 thousand dead for the front seat of the vehicle. This is the highest rate compared to the 120 thousand in the driver's seat and 400 thousand in the rear seat.
+
+#### Graphs : The number of personn killed by season in 1969 to 1979
+
+#### Graph:
+
+#### Graph:
+
+#### Graph:
+
+#### Graph:
+
+#### Graph:
